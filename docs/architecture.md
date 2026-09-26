@@ -26,4 +26,4 @@ Elasticsearch
 Kibana Dashboard
     │
     ▼
-SOC Analyst
+SOC Analyst.
